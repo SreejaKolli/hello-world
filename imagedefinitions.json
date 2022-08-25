@@ -1,6 +1,6 @@
 [
     {
-        "name": "webapp",
+        "name": "webapp-qa",
         "imageUri": "sreejakolli/awscodepipelineapp"
     }
 ]
